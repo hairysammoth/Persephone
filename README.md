@@ -1,5 +1,5 @@
-# Persephone
-Two Outta Three Ain't Bad
+Persephone
+# Two Outta Three Ain't Bad
 
 She lived her life in three rooms. The neonatal ICU, the operating theatre, and her mother’s
 womb. Five and a half months in one, two minutes in the second, and nine and a half days in
